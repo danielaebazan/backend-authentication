@@ -1,0 +1,25 @@
+{
+  "name": "practice-for-week-12-authenticate-me-long-practice",
+  "version": "1.0.0",
+  "description": "Long Practice - Authenticate Me In this multi-phase project, you will learn how to put together an entire Express application with authentication. When you are finished, you will have a full project starter that you could use for creating your first API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm --prefix backend install backend",
+    "dev:backend": "npm install --prefix backend start",
+    "sequelize": "npm run --prefix backend sequelize",
+    "sequelize-cli": "npm run --prefix backend sequelize-cli",
+    "start": "npm start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmytro2V/practice-for-week-12-authenticate-me-long-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmytro2V/practice-for-week-12-authenticate-me-long-practice/issues"
+  },
+  "homepage": "https://github.com/Dmytro2V/practice-for-week-12-authenticate-me-long-practice#readme"
+}
